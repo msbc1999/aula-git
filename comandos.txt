@@ -40,5 +40,7 @@ git push
 // Atualizar arquivos no repositório local a partir do repositório remoto
 git pull
 
+//exemplo atualizando
+
 
 
